@@ -76,7 +76,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: primary
-        icon_class: dev
+        icon_class: github
         new_window: false
         no_follow: false
         type: action
